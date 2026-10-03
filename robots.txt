@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0740cf4d5a.ltkmt.cn/sitemap.xml
